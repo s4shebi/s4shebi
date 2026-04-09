@@ -125,13 +125,3 @@
   <a href="https://gitlab.com/s4shebi75"><img src="https://api.iconify.design/simple-icons:gitlab.svg?color=%23FC6D26" alt="GitLab" width="34" height="34" /></a>&nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/6141900/shoaib-akhtar"><img src="https://api.iconify.design/simple-icons:stackoverflow.svg?color=%23F58025" alt="Stack Overflow" width="34" height="34" /></a>
 </p>
-
-
-<p align="center">
-  <img src="https://githance.in/api/render?type=contribution-heatmap&variant=classic&v=rect-v4&user=s4shebi&range=yearly" alt="Contribution graph" />
-</p>
-
-
-<p align="center">
-  <img src="https://githance.in/api/render?type=footer&banner_id=banner-4&w=1600&h=240" alt="Footer banner 04" width="800" />
-</p>
